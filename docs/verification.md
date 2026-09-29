@@ -17,14 +17,15 @@ Verified September 29, 2026 using Flutter 3.47.4 and Dart 3.13.3.
 | Release launch | `flutter run --release --use-application-binary=build/app/outputs/flutter-apk/app-release.apk --no-resident -d emulator-5554` exited successfully |
 | Git | Separate repository initialized on `main` |
 | GitHub | Destination: [het1406/smiley_painter](https://github.com/het1406/smiley_painter) |
-| Screenshot | Placeholder retained for Het's own real screenshot |
+| Screenshots | Seven supplied emulator captures embedded with captions in `docs/critical_thinking.md` |
 
 ## Files
 
 - `lib/main.dart`: starter app structure, purple theme, responsive drawing, controls, and gestures.
 - `android/`: separate Android application ID and display name.
 - `test/` and `integration_test/`: repaint, mood, layout, and Android interaction checks.
-- `docs/critical_thinking.md`: explanation draft and screenshot placeholder.
+- `docs/critical_thinking.md`: responsive drawing explanation and seven captioned screenshots.
+- `docs/screenshots/`: original supplied captures of the three mood bands, face designs, gestures, and landscape layout.
 - `docs/submission.md`: run, release build, GitHub, and submission instructions.
 
 Release APK:
@@ -32,4 +33,4 @@ Release APK:
 
 The Android toolchain emitted a Java native-access warning; both builds succeeded. The generated Flutter template uses its debug signing key for the classroom release APK.
 
-Remaining: review the app and critical-thinking draft, add Het's own screenshot, and upload to his chosen GitHub repository.
+Submission review: read the critical-thinking response and its screenshot evidence, then submit the document, release APK, and GitHub repository URL.
