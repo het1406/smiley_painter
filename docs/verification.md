@@ -17,7 +17,7 @@ Verified September 29, 2026 using Flutter 3.47.4 and Dart 3.13.3.
 | Release launch | `flutter run --release --use-application-binary=build/app/outputs/flutter-apk/app-release.apk --no-resident -d emulator-5554` exited successfully |
 | Git | Separate repository initialized on `main` |
 | GitHub | Destination: [het1406/smiley_painter](https://github.com/het1406/smiley_painter) |
-| Screenshots | Seven supplied emulator captures embedded with captions in `docs/critical_thinking.md` |
+| Screenshots | Seven supplied emulator captures embedded with captions in `docs/critical_thinking.md` and the eight-page `docs/critical_thinking.pdf` |
 
 ## Files
 
@@ -33,4 +33,4 @@ Release APK:
 
 The Android toolchain emitted a Java native-access warning; both builds succeeded. The generated Flutter template uses its debug signing key for the classroom release APK.
 
-Submission review: read the critical-thinking response and its screenshot evidence, then submit the document, release APK, and GitHub repository URL.
+Submission files are collected in `D:\Map\Het_Jani_Activity06_Submission`: `app-release.apk`, `critical_thinking.pdf`, and `GitHub_URL.txt`. Review the PDF and submit it with the APK and repository URL.
