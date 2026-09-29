@@ -16,7 +16,7 @@ Verified September 29, 2026 using Flutter 3.47.4 and Dart 3.13.3.
 | Release APK | Built successfully after `flutter clean` and `flutter pub get` |
 | Release launch | `flutter run --release --use-application-binary=build/app/outputs/flutter-apk/app-release.apk --no-resident -d emulator-5554` exited successfully |
 | Git | Separate repository initialized on `main` |
-| GitHub | Awaiting Het's destination repository URL |
+| GitHub | Destination: [het1406/smiley_painter](https://github.com/het1406/smiley_painter) |
 | Screenshot | Placeholder retained for Het's own real screenshot |
 
 ## Files

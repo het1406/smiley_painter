@@ -26,10 +26,11 @@ The Flutter Android template uses its debug signing key for this classroom relea
 
 ## GitHub
 
-The destination repository URL is pending. After the initial source commit, the project can be pushed with:
+Repository: [het1406/smiley_painter](https://github.com/het1406/smiley_painter).
+
+The local `origin` remote points to this repository. To push committed changes:
 
 ```powershell
-git remote add origin YOUR_REPOSITORY_URL
 git push -u origin main
 ```
 
